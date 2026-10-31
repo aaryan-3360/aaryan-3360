@@ -53,15 +53,6 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/aaryan-3360?label=Followers&style=for-the-badge&logo=github" />
-  <img src="https://komarev.com/ghpvc/?username=aaryan-3360&label=Profile%20Views&style=for-the-badge&color=blue" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=aaryan-3360&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://ghchart.rshah.org/2F81F7/aaryan-3360" alt="Contribution graph" />
 </p>
 
