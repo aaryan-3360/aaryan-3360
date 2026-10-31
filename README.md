@@ -44,6 +44,7 @@
 | Project | What it does | Tools |
 |---|---|---|
 | 🏏 **[IPL Analysis Dashboard](https://github.com/aaryan-3360/IPL-Analysis-Power-BI-Dashboard)** | 6-page interactive dashboard on 18 IPL seasons (2008–2025): teams, players, venues and head-to-head | Power BI, DAX, Power Query |
+| 💳 **[PhonePe Payment Insights](https://github.com/aaryan-3360/PhonePay-data-analysis--powerbi)** | Dashboard analyzing 300K UPI transactions (₹3.47bn) across 108K users: success rate, monthly trends, age groups and service value | Power BI, DAX, Excel, SQL |
 | 🎬 **[Netflix Content Analysis](https://github.com/aaryan-3360/Netflix-Content-Analysis)** | Dashboard analyzing Netflix content trends | Power BI |
 | 👥 **[SQL HR Analytics](https://github.com/aaryan-3360/sql-hr-analytics-project)** | Employee salary and attrition analysis using SQL window functions (ROW_NUMBER, RANK, NTILE, AVG OVER) | SQL |
 
@@ -63,18 +64,3 @@
 I'm looking for opportunities where I can work with data and learn from a great team. Feel free to reach out on **[LinkedIn](https://www.linkedin.com/in/aaryan-kamboj123)**.
 
 <p align="center"><i>"Data tells the story, I make it easy to read."</i> ✨</p>
-
-<!--
-**aaryan-3360/aaryan-3360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
