@@ -50,11 +50,19 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aaryan-3360&show_icons=true&theme=radical&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryan-3360&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://img.shields.io/github/followers/aaryan-3360?label=Followers&style=for-the-badge&logo=github" />
+  <img src="https://komarev.com/ghpvc/?username=aaryan-3360&label=Profile%20Views&style=for-the-badge&color=blue" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=aaryan-3360&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/2F81F7/aaryan-3360" alt="Contribution graph" />
 </p>
 
 ---
