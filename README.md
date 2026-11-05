@@ -21,7 +21,6 @@
 - 🎓 **BCA graduate** (CGPA **8.58/10**) from SD Institute of Management and Technology, Yamunanagar
 - 📊 Building my career as a **Data Analyst**: SQL, Excel, Power BI and DAX
 - 🏏 Recent project: **IPL Analysis Dashboard (2008–2025)** with 1,169 matches analyzed
-- 🎬 I also run **[@cineechofilms](https://www.instagram.com/cineechofilms/)**, a film and TV edits page
 - 🎯 Open to **entry-level Data Analyst / Software Development** roles
 
 ---
